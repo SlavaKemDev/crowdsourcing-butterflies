@@ -1,0 +1,86 @@
+[
+  {
+    "photo_id": 763261515,
+    "file": "instruction-763261515.jpg",
+    "width": 720,
+    "height": 540,
+    "boxes": [
+      {
+        "left": 0.30078125,
+        "top": 0.15234375,
+        "width": 0.44921875,
+        "height": 0.5403645833333334
+      }
+    ],
+    "source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/763261515/large.jpg",
+    "observation_url": "https://www.inaturalist.org/observations/414595635",
+    "license_code": "cc0",
+    "attribution": "no rights reserved",
+    "source_sha256": "24689c9a0367c0614f99903582858034b9fd35aee43eb7a180c25431199e3b73",
+    "sha256": "b45e290edd3825c202717a34010c20a1b16cb492ad629d97d5e741faaa197d9d",
+    "pillow_version": "13.0.0",
+    "box_color": "#d02020",
+    "box_width_px": 3,
+    "agent_visual_check": true,
+    "model_assisted": true,
+    "human_verified": false
+  },
+  {
+    "photo_id": 759419722,
+    "file": "instruction-759419722.jpg",
+    "width": 720,
+    "height": 720,
+    "boxes": [
+      {
+        "left": 0.326171875,
+        "top": 0.0888671875,
+        "width": 0.3408203125,
+        "height": 0.32421875
+      },
+      {
+        "left": 0.154296875,
+        "top": 0.52734375,
+        "width": 0.525390625,
+        "height": 0.2861328125
+      }
+    ],
+    "source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/759419722/large.jpg",
+    "observation_url": "https://www.inaturalist.org/observations/412689035",
+    "license_code": "cc0",
+    "attribution": "no rights reserved",
+    "source_sha256": "c49a2ff3af765f44007436e9e209702225af632184f5193336e885b9546a4352",
+    "sha256": "42fd7e2143fe5fbeaaa835ec8df63caaafbcf3e4b06c63e9750bce58fa78863e",
+    "pillow_version": "13.0.0",
+    "box_color": "#d02020",
+    "box_width_px": 3,
+    "agent_visual_check": true,
+    "model_assisted": true,
+    "human_verified": false
+  },
+  {
+    "photo_id": 762970417,
+    "file": "instruction-762970417.jpg",
+    "width": 720,
+    "height": 567,
+    "boxes": [
+      {
+        "left": 0.2109375,
+        "top": 0.13135068153655513,
+        "width": 0.51171875,
+        "height": 0.6480793060718711
+      }
+    ],
+    "source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762970417/large.jpg",
+    "observation_url": "https://www.inaturalist.org/observations/414449173",
+    "license_code": "cc0",
+    "attribution": "no rights reserved",
+    "source_sha256": "9ebddb5f9a1ade0bb6c2e6c0790b7f6569b6455066010f197c05b06d53b52ae7",
+    "sha256": "4b2cd150f961812841f576d12d4bcc1f73614e4340a05d19562f046a079b8f98",
+    "pillow_version": "13.0.0",
+    "box_color": "#d02020",
+    "box_width_px": 3,
+    "agent_visual_check": true,
+    "model_assisted": true,
+    "human_verified": false
+  }
+]

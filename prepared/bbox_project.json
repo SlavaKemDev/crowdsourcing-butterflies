@@ -1,0 +1,83 @@
+{
+  "public_name": "HW5: выделите взрослых бабочек рамками",
+  "public_description": "HW5: выделите взрослых бабочек рамками",
+  "public_instructions": "\n<h1>Найдите всех взрослых бабочек</h1>\n<p>Выделяйте дневных и ночных взрослых бабочек. Каждая бабочка получает отдельную прямоугольную рамку.</p><h2>Важное дополнение после пилота: необычные взрослые формы</h2><p>В задачу входят все взрослые дневные и ночные бабочки, включая необычные формы. Не требуйте привычных широких или ярких крыльев. Осматривайте весь кадр и видимые части объекта. Примеры ниже уточняют целевой класс, а не заменяют проверку всех рамок.</p><h3>Крупный план взрослой ночной бабочки</h3><div style=\"max-width:420px;width:100%\"><img src=\"https://inaturalist-open-data.s3.amazonaws.com/photos/751415542/large.jpg\" alt=\"Крупный план взрослой ночной бабочки\" style=\"width:100%;height:auto\" /></div><p>Пальцекрылки тоже являются бабочками. На крупном плане видимые части взрослого объекта могут касаться всех четырех краев кадра. В таком случае одна рамка по всему кадру допустима; дополнительные маленькие рамки внутри нее не нужны.</p><p>Источник: <a href=\"https://www.inaturalist.org/observations/408748451\" rel=\"nofollow\">iNaturalist, фото 751415542</a>; CC0.</p><h3>Взрослая бабочка в полете</h3><div style=\"max-width:420px;width:100%\"><img src=\"https://inaturalist-open-data.s3.amazonaws.com/photos/753226572/large.jpg\" alt=\"Взрослая бабочка в полете\" style=\"width:100%;height:auto\" /></div><p>У цветка виден взрослый бражник с серыми и оранжевыми крыльями. Смаз движения не означает отсутствие объекта. Размечайте его видимые части, не достраивая невидимые.</p><p>Источник: <a href=\"https://www.inaturalist.org/observations/409634000\" rel=\"nofollow\">iNaturalist, фото 753226572</a>; CC0.</p><h3>Бескрылая взрослая форма</h3><div style=\"max-width:420px;width:100%\"><img src=\"https://inaturalist-open-data.s3.amazonaws.com/photos/762629038/large.jpg\" alt=\"Бескрылая взрослая форма\" style=\"width:100%;height:auto\" /></div><p>У некоторых ночных бабочек взрослая самка не имеет крыльев. Это не делает ее гусеницей или куколкой. Не отклоняйте объект только из-за отсутствия привычного силуэта; если признаков недостаточно, выбирайте &#34;Нужен разбор&#34; и объясняйте сомнение.</p><p>Источник: <a href=\"https://www.inaturalist.org/observations/414281190\" rel=\"nofollow\">iNaturalist, фото 762629038</a>; CC0.</p><p>О бескрылых взрослых самках: <a href=\"https://spes.vt.edu/content/pubs_ext_vt_edu/en/ENTO/ENTO-223/ENTO-223.html\" rel=\"nofollow\">Virginia Cooperative Extension, Virginia Tech</a>; <a href=\"https://ipm.ucanr.edu/PMG/A/I-LP-APOM-AD.001.html\" rel=\"nofollow\">UC IPM, University of California</a>.</p>\n<ol><li>Дождитесь загрузки фотографии, осмотрите весь кадр. При необходимости увеличьте изображение.</li><li>Выберите &#34;Есть бабочки&#34; и нарисуйте отдельную рамку вокруг каждой взрослой бабочки.</li><li>Рамка плотно охватывает все видимые части: крылья, тело, усики и лапки. Не добавляйте заметные поля фона.</li><li>Перекрывающихся бабочек выделяйте отдельно. Для скрытой или обрезанной бабочки выделяйте только видимую часть. Не достраивайте скрытые части.</li><li>Проверьте, что бабочки не пропущены, лишних и повторных рамок нет.</li></ol>\n<h2>Что не выделять</h2>\n<p>Других насекомых, гусениц, куколок и тени. Ночная взрослая бабочка со сложенными крыльями тоже входит в задачу.</p>\n<h2>Особые ответы</h2>\n<ul><li>&#34;Бабочек нет&#34;: весь кадр просмотрен, взрослых бабочек нет. Оставьте рамки пустыми.</li><li>&#34;Ошибка загрузки&#34;: фотография не открылась и после повторной попытки. Это не означает отсутствие бабочек.</li><li>&#34;Нужен разбор&#34;: объект или границы неоднозначны. Напишите, где объект и что вызвало сомнение.</li></ul>\n<h2>Примеры правил</h2>\n<ul><li>Одна бабочка с раскрытыми крыльями: одна плотная рамка по всем видимым частям.</li><li>Две соприкасающиеся бабочки: две рамки, не одна общая.</li><li>Крыло закрыто листом: рамка охватывает видимую часть, скрытое не восстанавливаем.</li><li>Муха или гусеница на цветке, взрослых бабочек нет: &#34;Бабочек нет&#34;.</li><li>На фотографии цветка сидит бабочка: выделить бабочку, независимо от категории источника.</li></ul>\n\n<h2>Примеры разметки</h2>\n<p>Красные рамки показывают правильное выделение видимых частей бабочек.</p>\n<h3>1. Одна взрослая бабочка</h3>\n<div style=\"max-width:720px;width:100%\">\n<img src=\"https://chertan.me/static/hw5/instruction-763261515.jpg\" alt=\"Одна взрослая бабочка\" style=\"width:100%;height:auto\" />\n</div>\n<p>Одна рамка охватывает видимые крылья, тело, усики и лапки. Цветок и фон не являются отдельными объектами.</p>\n<p>Источник: <a href=\"https://www.inaturalist.org/observations/414595635\" rel=\"nofollow\">iNaturalist, фото 763261515</a>; CC0.</p>\n<h3>2. Несколько бабочек</h3>\n<div style=\"max-width:720px;width:100%\">\n<img src=\"https://chertan.me/static/hw5/instruction-759419722.jpg\" alt=\"Несколько бабочек\" style=\"width:100%;height:auto\" />\n</div>\n<p>Здесь две взрослые бабочки, каждой нужна отдельная рамка. Тень на листе внизу справа не размечается.</p>\n<p>Источник: <a href=\"https://www.inaturalist.org/observations/412689035\" rel=\"nofollow\">iNaturalist, фото 759419722</a>; CC0.</p>\n<h3>3. Часть объекта закрыта цветами</h3>\n<div style=\"max-width:720px;width:100%\">\n<img src=\"https://chertan.me/static/hw5/instruction-762970417.jpg\" alt=\"Часть объекта закрыта цветами\" style=\"width:100%;height:auto\" />\n</div>\n<p>Выделяется вся видимая часть бабочки, включая длинный видимый усик. Скрытые цветами части не достраиваются.</p>\n<p>Источник: <a href=\"https://www.inaturalist.org/observations/414449173\" rel=\"nofollow\">iNaturalist, фото 762970417</a>; CC0.</p>\n<h3>4. Похожее насекомое</h3>\n<div style=\"max-width:720px;width:100%\">\n<img src=\"https://inaturalist-open-data.s3.amazonaws.com/photos/763147293/large.jpg\" alt=\"Похожее насекомое\" style=\"width:100%;height:auto\" />\n</div>\n<p>В кадре жук с длинными усиками. Это не бабочка. Если других взрослых бабочек в кадре нет, правильный ответ: &#34;Бабочек нет&#34;.</p>\n<p>Источник: <a href=\"https://www.inaturalist.org/observations/414538133\" rel=\"nofollow\">iNaturalist, фото 763147293</a>; CC0.</p>\n<h3>5. Изображение без бабочек</h3>\n<div style=\"max-width:720px;width:100%\">\n<img src=\"https://inaturalist-open-data.s3.amazonaws.com/photos/763441012/large.jpg\" alt=\"Изображение без бабочек\" style=\"width:100%;height:auto\" />\n</div>\n<p>Осмотрите весь кадр. Здесь видны растение, листья и рука, но взрослых бабочек нет. Правильный ответ: &#34;Бабочек нет&#34;.</p>\n<p>Источник: <a href=\"https://www.inaturalist.org/observations/414685524\" rel=\"nofollow\">iNaturalist, фото 763441012</a>; CC0.</p>\n<h3>6. Гусеница</h3>\n<div style=\"max-width:720px;width:100%\">\n<img src=\"https://inaturalist-open-data.s3.amazonaws.com/photos/762931036/large.jpg\" alt=\"Гусеница\" style=\"width:100%;height:auto\" />\n</div>\n<p>Гусеница не является взрослой бабочкой и не выделяется. При отсутствии взрослых бабочек ответ пустой.</p>\n<p>Источник: <a href=\"https://www.inaturalist.org/observations/414431195\" rel=\"nofollow\">iNaturalist, фото 762931036</a>; CC0.</p>\n",
+  "private_comment": "HW5 bbox",
+  "assignments_issuing_type": "AUTOMATED",
+  "assignments_automerge_enabled": false,
+  "task_spec": {
+    "input_spec": {
+      "image": {
+        "type": "url",
+        "hidden": false,
+        "required": true
+      },
+      "photo_id": {
+        "type": "string",
+        "hidden": false,
+        "required": true
+      },
+      "correction_hint": {
+        "type": "string",
+        "hidden": false,
+        "required": false
+      }
+    },
+    "output_spec": {
+      "status": {
+        "type": "string",
+        "hidden": false,
+        "required": true,
+        "allowed_values": [
+          "objects",
+          "empty",
+          "load_error",
+          "uncertain"
+        ]
+      },
+      "comment": {
+        "type": "string",
+        "hidden": false,
+        "required": false
+      },
+      "annotations": {
+        "type": "json",
+        "hidden": false,
+        "required": true
+      }
+    },
+    "view_spec": {
+      "lock": {
+        "core": "1.7.0",
+        "view.list": "1.0.5",
+        "view.text": "1.0.0",
+        "condition.all": "1.0.0",
+        "condition.any": "1.0.0",
+        "condition.not": "1.0.0",
+        "plugin.toloka": "1.1.8",
+        "field.textarea": "1.0.0",
+        "condition.equals": "1.0.0",
+        "condition.schema": "1.0.0",
+        "condition.required": "1.1.5",
+        "field.image-annotation": "1.0.0",
+        "field.button-radio-group": "1.0.0"
+      },
+      "type": "tb",
+      "config": "{\"view\": {\"type\": \"view.list\", \"items\": [{\"type\": \"view.text\", \"content\": \"Осмотрите весь кадр. Выделите каждую взрослую бабочку отдельно, включая ночных.\"}, {\"type\": \"view.text\", \"content\": {\"type\": \"data.input\", \"path\": \"correction_hint\", \"default\": \"\"}}, {\"type\": \"field.image-annotation\", \"data\": {\"type\": \"data.output\", \"path\": \"annotations\", \"default\": []}, \"image\": {\"type\": \"data.input\", \"path\": \"image\"}, \"shapes\": {\"rectangle\": true, \"polygon\": false, \"point\": false}, \"fullHeight\": true, \"disabled\": false, \"validation\": {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.all\", \"conditions\": [{\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"objects\"}, {\"type\": \"condition.schema\", \"data\": {\"type\": \"data.output\", \"path\": \"annotations\", \"default\": []}, \"schema\": {\"type\": \"array\", \"minItems\": 1}}]}, {\"type\": \"condition.all\", \"conditions\": [{\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"empty\"}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"load_error\"}]}, {\"type\": \"condition.schema\", \"data\": {\"type\": \"data.output\", \"path\": \"annotations\", \"default\": []}, \"schema\": {\"type\": \"array\", \"maxItems\": 0}}]}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"uncertain\"}], \"hint\": \"При наличии бабочек нарисуйте рамки; для пустого кадра или ошибки загрузки удалите рамки.\"}}, {\"type\": \"field.button-radio-group\", \"label\": \"Результат просмотра\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"options\": [{\"value\": \"objects\", \"label\": \"Есть бабочки\"}, {\"value\": \"empty\", \"label\": \"Бабочек нет\"}, {\"value\": \"load_error\", \"label\": \"Ошибка загрузки\"}, {\"value\": \"uncertain\", \"label\": \"Нужен разбор\"}], \"validation\": {\"type\": \"condition.required\"}}, {\"type\": \"field.textarea\", \"label\": \"Причины ошибок или сомнений и их место в кадре\", \"data\": {\"type\": \"data.output\", \"path\": \"comment\"}, \"placeholder\": \"Например: пропущена маленькая бабочка справа внизу\", \"validation\": {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"uncertain\"}}, {\"type\": \"condition.required\", \"data\": {\"type\": \"data.output\", \"path\": \"comment\"}}], \"hint\": \"Опишите, что вызвало сомнение.\"}}]}, \"plugins\": [{\"type\": \"plugin.toloka\", \"layout\": {\"kind\": \"scroll\", \"taskWidth\": 1000}}]}",
+      "settings": {
+        "showSkip": true,
+        "showTimer": true,
+        "showTitle": true,
+        "showFinish": true,
+        "showReward": true,
+        "showSubmit": true,
+        "showMessage": true,
+        "showFullscreen": true,
+        "showInstructions": true
+      },
+      "inputExample": null,
+      "inferDataSpec": false,
+      "localizationConfig": null
+    }
+  }
+}

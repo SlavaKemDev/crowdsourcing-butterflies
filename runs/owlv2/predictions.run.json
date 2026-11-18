@@ -1,0 +1,54 @@
+{
+  "started_at": "2026-11-17T08:33:30.226768+00:00",
+  "model": "google/owlv2-base-patch16",
+  "revision": "2a1560802f8cf3c408fec9b809d705f56a2f7146",
+  "snapshot": ".cache/huggingface/models--google--owlv2-base-patch16/snapshots/2a1560802f8cf3c408fec9b809d705f56a2f7146",
+  "device": "mps",
+  "prompt": "a butterfly|a moth",
+  "threshold": 0.25,
+  "candidate_threshold": 0.05,
+  "text_threshold": 0.2,
+  "nms_iou": 0.5,
+  "max_new_tokens": 768,
+  "do_sample": false,
+  "batch_size": 1,
+  "exif_transpose": true,
+  "manifest_sha256": "50f26390ad10a6cce09ad7e86dd006a91792b3b17e454fe9eee95dba8dc738dd",
+  "images_expected": 400,
+  "smoke_limit": 0,
+  "python": "3.12.13",
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "packages": {
+    "torch": "2.9.1",
+    "torchvision": "0.24.1",
+    "transformers": "4.57.6",
+    "Pillow": "13.0.0",
+    "numpy": "2.2.6",
+    "scipy": "1.16.3"
+  },
+  "image_processor": {
+    "_processor_class": "Owlv2Processor",
+    "image_processor_type": "Owlv2ImageProcessor",
+    "do_rescale": true,
+    "rescale_factor": 0.00392156862745098,
+    "do_pad": true,
+    "do_resize": true,
+    "size": {
+      "height": 960,
+      "width": 960
+    },
+    "resample": 2,
+    "do_normalize": true,
+    "image_mean": [
+      0.48145466,
+      0.4578275,
+      0.40821073
+    ],
+    "image_std": [
+      0.26862954,
+      0.26130258,
+      0.27577711
+    ]
+  },
+  "model_load_seconds": 2.3907869160175323
+}

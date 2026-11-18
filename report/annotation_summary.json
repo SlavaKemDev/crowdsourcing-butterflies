@@ -1,0 +1,51 @@
+{
+  "projects": {
+    "bbox": "https://tasks.yandex.ru/requester/project/11858",
+    "review": "https://tasks.yandex.ru/requester/project/11859",
+    "admission_exams": "https://tasks.yandex.ru/requester/project/11860"
+  },
+  "reference": {
+    "images": 400,
+    "standard_review": 394,
+    "provisional_one_human_accept_plus_assisted_adjudication": 6,
+    "excluded_review_verdicts": 36,
+    "last_pool": 6868991,
+    "last_pool_export_verified": false
+  },
+  "budget_rub_including_fee": {
+    "exam": "35.00",
+    "initial_bbox": "284.20",
+    "review_and_calibration": "281.40",
+    "corrections_and_rechecks": "133.35",
+    "commission_percent": 40,
+    "confirmed_total": "733.95",
+    "last_pool_maximum": "12.60",
+    "total_maximum": "746.55",
+    "minimum_balance": "103.45",
+    "budget": "850.00"
+  },
+  "sample_audit": {
+    "method": "AI-assisted visual inspection; no additional human review; reference unchanged.",
+    "random": {
+      "checked": 20,
+      "no_obvious_error": 19,
+      "boundary_uncertain": 1
+    },
+    "risk_selected": {
+      "checked": 20,
+      "no_obvious_error": 16,
+      "class_or_count_uncertain": 3,
+      "confirmed_boundary_issue": 1
+    },
+    "examples": [
+      {
+        "photo_id": 758504931,
+        "finding": "Visible antenna extends above the top edge of the reference box. Discovered on the full-resolution overlay."
+      },
+      {
+        "photo_id": 763906267,
+        "finding": "The initial pilot box cut off the antennae. Discovered by comparing the original with the exact submitted overlay."
+      }
+    ]
+  }
+}

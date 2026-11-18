@@ -1,0 +1,109 @@
+{
+  "scope": "Confirmed394 own photos only; deliberately selected illustrations, not representative statistics",
+  "no_private_worker_identifiers": true,
+  "cases": [
+    {
+      "photo_id": 762142466,
+      "figure": "report/cases/case_false_positive.png",
+      "source_sha256": "e3c1df081f26f5f05c7c191a9dc1bfad62da56c3ee487412cf4c2b65138878a7",
+      "crop_xyxy": [
+        0,
+        0,
+        1024,
+        768
+      ],
+      "models": [
+        {
+          "model": "Эталон",
+          "boxes": [],
+          "tp": 0,
+          "fp": 0,
+          "fn": 0
+        },
+        {
+          "model": "Qwen 0.25",
+          "boxes": [
+            {
+              "left": 0.123,
+              "top": 0.195,
+              "width": 0.768,
+              "height": 0.5569999999999999
+            }
+          ],
+          "tp": 0,
+          "fp": 1,
+          "fn": 0
+        },
+        {
+          "model": "DINO 0.25",
+          "boxes": [
+            {
+              "left": 0.12060680985450745,
+              "top": 0.19261491298675537,
+              "width": 0.7720312774181366,
+              "height": 0.561467448870341
+            }
+          ],
+          "tp": 0,
+          "fp": 1,
+          "fn": 0
+        }
+      ]
+    },
+    {
+      "photo_id": 755544894,
+      "figure": "report/cases/case_incomplete_frame.png",
+      "source_sha256": "775ae960137082687b4a00644aaf25feff6268e552dc9dbfe473577cd8fb1206",
+      "crop_xyxy": [
+        240,
+        440,
+        510,
+        755
+      ],
+      "models": [
+        {
+          "model": "Эталон",
+          "boxes": [
+            {
+              "left": 0.36988110964332893,
+              "top": 0.462890625,
+              "width": 0.26948480845442535,
+              "height": 0.2412109375
+            }
+          ],
+          "tp": 1,
+          "fp": 0,
+          "fn": 0
+        },
+        {
+          "model": "Qwen 0.25",
+          "boxes": [
+            {
+              "left": 0.452,
+              "top": 0.48,
+              "width": 0.15499999999999997,
+              "height": 0.17800000000000005
+            }
+          ],
+          "tp": 0,
+          "fp": 1,
+          "fn": 1
+        },
+        {
+          "model": "DINO 0.25",
+          "boxes": [
+            {
+              "left": 0.34036238757275844,
+              "top": 0.4808855950832367,
+              "width": 0.2687992715772581,
+              "height": 0.20297768712043762
+            }
+          ],
+          "tp": 1,
+          "fp": 0,
+          "fn": 0
+        }
+      ]
+    }
+  ]
+}

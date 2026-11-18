@@ -1,0 +1,59 @@
+{
+  "started_at": "2026-11-17T08:36:37.993211+00:00",
+  "model": "Qwen/Qwen3-VL-2B-Instruct",
+  "revision": "89644892e4d85e24eaac8bacfd4f463576704203",
+  "snapshot": ".cache/huggingface/models--Qwen--Qwen3-VL-2B-Instruct/snapshots/89644892e4d85e24eaac8bacfd4f463576704203",
+  "device": "mps",
+  "prompt": "Locate every adult butterfly or moth in this image. Draw one tight bounding box around all visible parts of each adult, including wings, body, antennae and legs. For overlapping or cropped adults, include only visible parts. Do not include other insects, caterpillars, pupae or shadows. Return only a JSON array, with one object per adult: {\"bbox_2d\": [x_min, y_min, x_max, y_max]}. Coordinates must be integers normalized to 0..1000. If there are no adult butterflies or moths, return [].",
+  "threshold": 0.25,
+  "candidate_threshold": 0.05,
+  "text_threshold": 0.2,
+  "nms_iou": 0.5,
+  "max_new_tokens": 768,
+  "do_sample": false,
+  "batch_size": 1,
+  "exif_transpose": true,
+  "manifest_sha256": "50f26390ad10a6cce09ad7e86dd006a91792b3b17e454fe9eee95dba8dc738dd",
+  "images_expected": 400,
+  "smoke_limit": 0,
+  "python": "3.12.13",
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "packages": {
+    "torch": "2.9.1",
+    "torchvision": "0.24.1",
+    "transformers": "4.57.6",
+    "Pillow": "13.0.0",
+    "numpy": "2.2.6",
+    "scipy": "1.16.3"
+  },
+  "image_processor": {
+    "_processor_class": "Qwen3VLProcessor",
+    "image_processor_type": "Qwen2VLImageProcessor",
+    "min_pixels": 3136,
+    "max_pixels": 1003520,
+    "size": {
+      "shortest_edge": 3136,
+      "longest_edge": 1003520
+    },
+    "do_resize": true,
+    "resample": 3,
+    "do_rescale": true,
+    "rescale_factor": 0.00392156862745098,
+    "do_normalize": true,
+    "image_mean": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "image_std": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "patch_size": 16,
+    "temporal_patch_size": 2,
+    "merge_size": 2,
+    "do_convert_rgb": true
+  },
+  "model_load_seconds": 6.029866165947169
+}

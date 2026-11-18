@@ -1,0 +1,6 @@
+{
+  "source": "hw5/runs/dino/predictions.jsonl",
+  "threshold": 0.35,
+  "nms_iou": 0.5,
+  "source_sha256": "d296991f5f5f99d3c7dbf731b02adc8f575850ed72deb98d0c66d6d28b4e1170"
+}

@@ -1,0 +1,11 @@
+{
+  "contest_id": 103082,
+  "task": "A",
+  "score": 10,
+  "max_score": 10,
+  "source": "reported by team",
+  "reported_on_moscow": "2026-11-18",
+  "object_f1_at_iou_0_5": null,
+  "f1_lower_bound_from_scoring_rule": 0.7,
+  "exact_submission_id": null
+}

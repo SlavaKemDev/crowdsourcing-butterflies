@@ -1,0 +1,139 @@
+[
+  {
+    "pool_id": "6868293",
+    "overlap": 20,
+    "infinite_overlap": false,
+    "tasks": [
+      {
+        "input_values": {
+          "question": "Нужно ли выделять взрослую ночную бабочку?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли обвести двух соприкасающихся бабочек одной общей рамкой?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Нужно ли включать видимые усики и лапки в рамку?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Нужно ли достраивать скрытое листом крыло?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли ответить 'Бабочек нет', если фотография не загрузилась?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Нужно ли выделять гусеницу, если взрослых бабочек в кадре нет?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Может ли на фотографии цветка быть бабочка, которую нужно выделить?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Нужно ли выделить видимую часть бабочки, обрезанной краем фотографии?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Нужно ли отдельно обводить тень бабочки?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Если объект нельзя уверенно опознать, нужен ли отдельный разбор сомнения?"
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      }
+    ]
+  }
+]

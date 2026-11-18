@@ -1,0 +1,198 @@
+[
+  {
+    "pool_id": "6868294",
+    "overlap": 20,
+    "infinite_overlap": false,
+    "tasks": [
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763906267/large.jpg",
+          "annotations": [
+            {
+              "shape": "rectangle",
+              "left": 0.15625,
+              "top": 0.19140625,
+              "width": 0.6826171875,
+              "height": 0.67578125
+            }
+          ]
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763244332/large.jpg",
+          "annotations": []
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763906267/large.jpg",
+          "annotations": [
+            {
+              "shape": "rectangle",
+              "left": 0.15625,
+              "top": 0.19140625,
+              "width": 0.6826171875,
+              "height": 0.67578125
+            },
+            {
+              "shape": "rectangle",
+              "left": 0.17625,
+              "top": 0.21140625,
+              "width": 0.6826171875,
+              "height": 0.67578125
+            }
+          ]
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763906267/large.jpg",
+          "annotations": [
+            {
+              "shape": "rectangle",
+              "left": 0,
+              "top": 0,
+              "width": 1,
+              "height": 1
+            }
+          ]
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763017033/large.jpg",
+          "annotations": []
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763020240/large.jpg",
+          "annotations": []
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763020240/large.jpg",
+          "annotations": [
+            {
+              "shape": "rectangle",
+              "left": 0.38,
+              "top": 0.47,
+              "width": 0.31,
+              "height": 0.27
+            }
+          ]
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "no"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/755745919/large.jpg",
+          "annotations": []
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/683338592/large.jpg",
+          "annotations": []
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      },
+      {
+        "input_values": {
+          "question": "Можно ли принять предложенную разметку взрослых бабочек? Проверьте весь кадр и все рамки.",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/763772322/large.jpg",
+          "annotations": []
+        },
+        "known_solutions": [
+          {
+            "output_values": {
+              "answer": "yes"
+            },
+            "correctness_weight": 1
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "frozen_at": "2026-11-17T08:21:51.448747+00:00",
+  "seed": 20261117,
+  "count": 400,
+  "groups": {
+    "butterflies": 200,
+    "moths": 100,
+    "beetles": 15,
+    "flies": 15,
+    "bees_wasps_ants": 15,
+    "true_bugs": 15,
+    "flowering_plants": 20,
+    "larvae": 10,
+    "pupae": 10
+  },
+  "manifest_sha256": "50f26390ad10a6cce09ad7e86dd006a91792b3b17e454fe9eee95dba8dc738dd",
+  "total_image_bytes": 181135519,
+  "image_variant": "large",
+  "maximum_dimension": 1024,
+  "source_groups_are_ground_truth": false
+}
