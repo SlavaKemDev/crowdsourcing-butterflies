@@ -54,5 +54,3 @@ PYTORCH_ENABLE_MPS_FALLBACK=0 .venv/bin/python models.py infer \
 [Проект разметки](https://tasks.yandex.ru/requester/project/11858) · [Проект проверки](https://tasks.yandex.ru/requester/project/11859)
 
 Настройки проектов и допуска лежат в `prepared/`. Автор не мог проверять собственную разметку. Две независимые приёмки позволяли принять ответ, два отклонения вели к исправлению, расхождения разбирали по кадру. Шесть предварительных решений отмечены в [сводке](report/annotation_summary.json).
-
-Исходные ответы, вердикты и исправления передаются преподавателю отдельно в закрытом архиве `instructor_evidence_private.zip`.
